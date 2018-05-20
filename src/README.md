@@ -1,3 +1,5 @@
+# OpenSimulator-Commands.py
+
 osAlert(message)
 
 osAlertUser(firstname,lastname,message)
