@@ -31,6 +31,7 @@ import datetime
 from PIL import Image, ImageTk
 
 import osAdmin_help
+import oscommands
 
 # import gettext
 # gettext.bindtextdomain('OpenSimRemote', '/language')
