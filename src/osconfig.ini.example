@@ -1,0 +1,16 @@
+[DEFAULT]
+SimulatorAdress = http://127.0.0.1:9000/
+ConsoleUser = user
+ConsolePass = passwd
+
+[FTPSERVER]
+ftpAdress = 127.0.0.1
+ftpuser = user
+ftppass = passwd
+ftpdirectory = /opensim/bin
+
+[TELNET]
+Telnetadress = 127.0.0.1
+Telnetuser = user
+Telnetpass = passwd
+Telnetdirectory = /opensim/bin
