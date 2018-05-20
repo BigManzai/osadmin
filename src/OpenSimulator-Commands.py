@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # OpenSim-Commands
-# Python 3.6 - 2018 by BigManzai Version  1.0
+# Python 3.6 - 2018 by BigManzai Version  1.02
 
 import configparser
 import xmlrpc.client
