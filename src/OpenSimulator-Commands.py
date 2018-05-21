@@ -79,7 +79,6 @@ def osConfigSet(section, key, value):
 	Simulator.admin_console_command({'password': ConsolePass,'command': ConfigSet})
 	osConfigSetInfo = "config set <section> <key> <value> - Set a config option.  In most cases this is not useful since changed parameters are not dynamically reloaded.  Neither do changed parameters persist - you will have to change a config file manually and restart."
 	return
-#osConfigSet(section, key, value)
 
 def osCreateRegion(regionname):
 	CreateRegion = "create region " + regionname
